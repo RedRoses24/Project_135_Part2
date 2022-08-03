@@ -1,0 +1,68 @@
+body{
+    background: url('https://img.freepik.com/premium-vector/comic-blue-background-with-cloud-stars_530597-110.jpg');
+    background-size:cover;
+}
+#status, #no_of_objects, #btn_start{
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Montagu Slab', serif;
+font-family: 'Mouse Memoirs', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Titan One', cursive;
+color: black;
+color: white;
+border-color: black;
+}
+.heading{
+    font-family: 'Balsamiq Sans', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Montagu Slab', serif;
+font-family: 'Mouse Memoirs', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Titan One', cursive;
+background-color: lightgoldenrodyellow;
+width: 300px;
+border-color: black;
+color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0;
+    height: 40px;
+    background-color:gray;
+    color: black;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Titan One', cursive;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    margin-top: 400px;
+    font-size: large;
+    width: 100%;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px gray;
+    border: 3px black;
+    margin-top: 112px;
+    border-color: black;
+}
+input{
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    width: 400px;
+}
